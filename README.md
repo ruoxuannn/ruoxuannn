@@ -10,8 +10,9 @@ Previously: consultant at [The Malaysian SOCIAL Project](https://www.linkedin.co
 
 ### Hackathons
 
-🥇 **1st Place** — [Encode Club AI London Hackathon 2026](https://github.com/ruoxuannn/chem-trace) · Built ChemTrace, a multi-agent AI platform for automated chemical synthesis planning
-
+> 🥇 **1st Place — Encode Club AI London Hackathon 2026**
+>
+> **[Live Demo →](https://chemtrace.lovable.app)**
 ---
 
 ### Featured Projects
