@@ -1,4 +1,4 @@
-# Ruo Xuan Tey
+# Ruo Xuan (Serena) Tey
 
 **BSc Data Science, London School of Economics** · First-year
 
