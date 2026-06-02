@@ -4,8 +4,6 @@
 
 I build systems that turn messy data into structured decisions — multi-agent AI platforms, fraud detection classifiers, geospatial pipelines, and market entry models.
 
-Previously: consultant at [The Malaysian SOCIAL Project](https://www.linkedin.com/company/the-malaysian-social-project/) (BCG-mentored), data & technology intern at OneVerse Technology.
-
 ---
 
 ### Hackathons
