@@ -1,6 +1,6 @@
 # Ruo Xuan (Serena) Tey
 
-**BSc Data Science, London School of Economics · Penultimate year**
+**BSc Data Science, London School of Economics · Penultimate-year**
 
 I build systems that turn messy data into structured decisions — fraud detection classifiers, geospatial data pipelines, multi-agent AI platforms, and statistical models.
 
